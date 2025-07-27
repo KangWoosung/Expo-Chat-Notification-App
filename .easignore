@@ -34,10 +34,10 @@ yarn-error.*
 .env*.local
 
 # firebase
-notification01-firebase_private_key.json
+# notification01-firebase_private_key.json
 
 # google-services.json
-google-services.json
+# google-services.json
 
 # typescript
 *.tsbuildinfo
