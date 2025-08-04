@@ -1,0 +1,17 @@
+# .easignore
+
+# Dependencies
+node_modules/
+
+# Platform-specific folders
+android/
+ios/
+
+# Build artifacts
+dist/
+build/
+web-build/
+
+# Expo
+.expo/
+expo-env.d.ts
